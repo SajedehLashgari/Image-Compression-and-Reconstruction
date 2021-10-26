@@ -1,4 +1,3 @@
-# Image-Compression-and-Reconstruction
-Image Compression and Reconstruction with python + Autoencoder + SVD + PCA
+# Image compression and reconstruction
 
-In this work, Image Compression and Reconstruction is done using PCA, SVD and Autoencoder methods, and finally a comparison of the methods, reconstructed or compressed images and the results of denoising are obtained.
+In this work, image compression and reconstruction are performed using PCA, SVD, and Autoencoder methods, and finally, a comparison of methods, reconstructed or compressed images, and noise removal results are obtained.
